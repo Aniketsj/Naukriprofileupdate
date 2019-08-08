@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="54887" started-at="2019-08-08T15:16:53Z" finished-at="2019-08-08T15:17:48Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="54887" started-at="2019-08-08T15:16:53Z" finished-at="2019-08-08T15:17:48Z">
+      <class name="com.naukri.testcase.Homepagetest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.naukri.testcase.Homepagetest@1550481]" name="setup" is-config="true" duration-ms="25626" started-at="2019-08-08T15:16:53Z" finished-at="2019-08-08T15:17:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="editprofile()[pri:0, instance:com.naukri.testcase.Homepagetest@1550481]" name="editprofile" duration-ms="29194" started-at="2019-08-08T15:17:19Z" finished-at="2019-08-08T15:17:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editprofile -->
+      </class> <!-- com.naukri.testcase.Homepagetest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
