@@ -30,6 +30,7 @@ public class Loginpage extends Baseclass {
 	{
 		hp=lp.Logincall(prop.getProperty("username"),prop.getProperty("password"));
 		Thread.sleep(3000);
+		System.out.println("Test");
 		hp.mousehoveronmynaukri();
 	}
 	
