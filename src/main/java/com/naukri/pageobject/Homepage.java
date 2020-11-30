@@ -38,7 +38,7 @@ public class Homepage extends Baseclass{
 		action.moveToElement(mousehoveronmynaukri).build().perform();
 		EditProfile.click();
 		updateresume.sendKeys("D:\\e\\Naukriupdateprofile\\Testdata\\Resume_QA -Test Engineer.pdf");
-		
+		System.out.println("test");
 		}
 	
 }
